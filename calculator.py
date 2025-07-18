@@ -1,5 +1,5 @@
 print("1-Addition")
-print("3-Subtraction")
+print("2-Subtraction")
 print("3-Multiplication")
 print("4-Division")
 operation=int(input("Choose your operation:"))
